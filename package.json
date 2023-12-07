@@ -45,14 +45,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juliusagency/authorization-repo-mongo.git"
+    "url": "git+https://github.com/juliusagency/authorization-jwt-checker.git"
   },
   "author": "ekarpovsky",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juliusagency/authorization-repo-mongo/issues"
+    "url": "https://github.com/juliusagency/authorization-jwt-checker/issues"
   },
-  "homepage": "https://github.com/juliusagency/authorization-repo-mongo#readme",
+  "homepage": "https://github.com/juliusagency/authorization-jwt-checker#readme",
   "keywords": [
     "npm",
     "javascript",
